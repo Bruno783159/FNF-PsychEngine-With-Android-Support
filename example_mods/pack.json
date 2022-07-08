@@ -1,6 +1,7 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "VS Dark Sonic",
+	"description": "Sonic has finally lost it...",
 	"restart":false,
-	"color": [170, 0, 255]
+	"runsGlobally":false,
+	"color": [46, 27, 81]
 }
